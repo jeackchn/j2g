@@ -23,3 +23,6 @@
       -p, --power           If the output file exists, overwrite it.
       -q, --quiet           Quiet work, do not display a completion message.
 
+##More
+
+    https://github.com/jeackchn/jg

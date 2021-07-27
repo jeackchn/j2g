@@ -10,4 +10,5 @@ setup(
     packages=find_packages(),
     install_requires=['graphviz'],
     license='Apache',
+    url=jg.__url__,
 )
