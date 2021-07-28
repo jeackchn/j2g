@@ -1,6 +1,6 @@
-version = "0.1"
+version = "0.0.1"
 author = "jeack_chen@hotmail.com"
-github_url = "https://github.com/jeackchn/jg"
+github_url = "https://github.com/jeackchn/j2g"
 
 # def schema_graph(schema, title):
 #     """

@@ -4,7 +4,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser(
-        prog="jg",
+        prog="j2g",
         description=f'This is a json graph util %(prog)s version={version}. {author}',
         add_help=True,
     )
@@ -36,4 +36,4 @@ if __name__ == '__main__':
         dot = foo(js, args.root_node_name)
         dot.render(destination, format=args.format)
         if not args.quiet:
-            print(f"Crate {dest}.")
+            print(f"File {dest} has been created.")

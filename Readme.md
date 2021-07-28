@@ -1,13 +1,13 @@
 ##Install
 
-    pip install jg
+    pip install j2g
 
 ##How to use
 
-    python -m jg -h
-    usage: jg [-h] [-v] [-f {pdf,jpg,png}] [-n ROOT_NODE_NAME] [-p] [-q] source destination
+    python -m j2g -h
+    usage: j2g [-h] [-v] [-f {pdf,jpg,png}] [-n ROOT_NODE_NAME] [-p] [-q] source destination
     
-    This is a json graph util jg version=0.1. jeack_chen@hotmail.com
+    This is a json graph util j2g version=0.0.1. jeack_chen@hotmail.com
     
     positional arguments:
       source                json file
@@ -25,4 +25,4 @@
 
 ##More
 
-    https://github.com/jeackchn/jg
+    https://github.com/jeackchn/j2g

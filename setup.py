@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
-import jg
+import j2g
 
 setup(
-    name="jg",
-    version=jg.__version__,
-    author=jg.__author__,
-    author_email=jg.__author__,
+    name="j2g",
+    version=j2g.__version__,
+    author=j2g.__author__,
+    author_email=j2g.__author__,
     packages=find_packages(),
     install_requires=['graphviz'],
-    license='Apache',
-    url=jg.__url__,
+    license='MIT',
+    url=j2g.__url__,
 )

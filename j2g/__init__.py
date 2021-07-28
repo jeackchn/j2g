@@ -1,4 +1,4 @@
-# package jg
+# package j2g
 # __init__.py
 from .out import *
 
